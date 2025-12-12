@@ -1,0 +1,5 @@
+Book: 1984
+Author: George Orwell
+Genre: Dystopian
+Quantity: 1
+Total Price: $20
